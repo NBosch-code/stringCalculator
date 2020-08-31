@@ -1,5 +1,6 @@
 # stringCalculator
 
+I completed th below string calculator tasks in 20 minutes
 
 https://osherove.com/tdd-kata-1/
 
